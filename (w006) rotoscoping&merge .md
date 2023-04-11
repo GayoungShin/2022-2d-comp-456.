@@ -22,6 +22,9 @@
    lens distirion grid 촬영법
    lens distortion node(undistort mode)
    ![image](https://user-images.githubusercontent.com/113075273/231108219-308aa57d-40ef-4b07-b932-1bc11174a1ef.png)
+   직접 선 따 그려서 solve누르기
+   ![image](https://user-images.githubusercontent.com/113075273/231111258-2abb71b0-54fb-4c1c-8f22-c16a372e144a.png)
+
 
 
 
