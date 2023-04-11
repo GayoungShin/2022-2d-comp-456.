@@ -4,6 +4,8 @@
     motionblur 노드는 전체적으로 누크가 느려지기때문에 로토 자체에 있는 모션 블러를 쓰자   
     layer channel   
        ![image](https://user-images.githubusercontent.com/113075273/231084860-0fbd8bf6-7785-4ac0-9af1-adcd688e568c.png)
+       ![image](https://user-images.githubusercontent.com/113075273/231107138-db85aa73-2d52-4cb8-a89f-2fc1451c4900.png)
+
   
 # premult-mutiplies the rgb values by the alpha
 # you cant work colorcorrect in pre-mutied image
