@@ -42,6 +42,7 @@ use rotational points
 # merge
 *a는 A채널의 알파, b는 B채널의 알파
 ![image](https://user-images.githubusercontent.com/113075273/206976172-b3753f07-4c97-4bc7-a824-f9785d04ae07.png)   
+   
     
  ### 주로 사용하는 것
 - over A+B(1-a)
