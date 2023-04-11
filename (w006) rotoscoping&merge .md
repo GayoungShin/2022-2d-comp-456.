@@ -7,6 +7,9 @@
   
 # premult-mutiplies the rgb values by the alpha
 # you cant work colorcorrect in pre-mutied image
+   ![image](https://user-images.githubusercontent.com/113075273/231094950-ce0ddcb9-bca5-4c57-92e2-f1965ce0d988.png)
+   ![image](https://user-images.githubusercontent.com/113075273/231095000-3cda2380-7a44-428f-841c-55e35aecaa5f.png)
+
 
 
 # rotoscoping
