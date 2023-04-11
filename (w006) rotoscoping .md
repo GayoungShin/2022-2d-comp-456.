@@ -1,6 +1,11 @@
 
 *누크 노드는 항상 위에서 아래인 것을 명심하자   
-    모든 영상은 metadata가 존재하는데 다른 걸 합성하면서 original plate의 metadata를 유지하기 위해서이다.
+    모든 영상은 metadata가 존재하는데 다른 걸 합성하면서 original plate의 metadata를 유지하기 위해서이다.   
+    motionblur 노드는 전체적으로 누크가 느려지기때문에 로토 자체에 있는 모션 블러를 쓰자   
+    layer channel   
+       ![image](https://user-images.githubusercontent.com/113075273/231084860-0fbd8bf6-7785-4ac0-9af1-adcd688e568c.png)
+       oremult-mutiplies the rgb values by the alpha
+
 
 # rotoscoping
 로토스코핑의 역사: 폴란드 계 미국인 Max Fleischer가 개발한 로토스코핑은 이미 촬영된 동영상을 따라그리거나 위에 효과를 그려 만드는 애니메이션 기법이다.   
