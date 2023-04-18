@@ -28,7 +28,7 @@
     
  ##   four point tracking
     
-    corner pin 투디 노드.
+ corner pin 투디 노드.
     ![image](https://user-images.githubusercontent.com/113075273/232715672-6e00b17b-1c8e-449f-a295-f4f1bb04413e.png)
 
     
