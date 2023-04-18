@@ -64,6 +64,6 @@
 - 리디스톨션은 전체 플레이트에 하지 말고 풋티지에만 하자.
 -![image](https://user-images.githubusercontent.com/113075273/232708645-f783e281-7234-45b9-97d7-5daa29fc3aec.png)
 
--planartracker   
+- planartracker   
 먼저 로토 처럼 베지어 따고 인식 한 다음 트래킹 들어가서 위쪽 아이콘 눌러 트랙 포인트 재지정 후 플레이하면 따라감
 ![image](https://user-images.githubusercontent.com/113075273/232725515-81f2d95a-9b6a-434f-b0dd-01b083eb158e.png)
