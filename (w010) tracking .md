@@ -66,7 +66,8 @@
 
 - planartracker   
 먼저 로토 처럼 베지어 따고 인식 한 다음 트래킹 들어가서 위쪽 아이콘 눌러 트랙 포인트 재지정 후 플레이하면 따라감
-![image](https://user-images.githubusercontent.com/113075273/232725515-81f2d95a-9b6a-434f-b0dd-01b083eb158e.png)
+![image](https://user-images.githubusercontent.com/113075273/232725515-81f2d95a-9b6a-434f-b0dd-01b083eb158e.png)   
+
 track 2d랑 storesign을 트랙킹하는건데
 6개의 간판 중에 좌측에 강아지 같이 생긴거 포함 그 외에 3개의 컴프를 추가로 합성한다.
 전부 다 코너핀으로 하면 안되고 플래너트래커를 하든 코너핀트래킹을 하든 2개씩하자.
