@@ -49,3 +49,6 @@
 - noise   
    ![image](https://user-images.githubusercontent.com/113075273/232689017-271f6939-52df-4fb8-958c-4990b2d22ca0.png)   
    모든 촬영된 이미지는 노이즈를 갖는다. 초록색 크로마키도 블루 채널로 보면 노이즈가 있음.   
+   - regrain   
+   ![image](https://user-images.githubusercontent.com/113075273/232690114-0ba89c5a-27da-4590-9ca8-0b082b39f8a7.png)
+
