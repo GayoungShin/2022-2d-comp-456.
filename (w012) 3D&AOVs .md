@@ -11,4 +11,10 @@
 
 
 
+# AOVs
+## color AOVs
+direct / indirect -maya에서 주로 사용. 정반사 난반사? 빛이 직접 쏘는거와 반사되는 것
+albedo - 빛과 쉐이더가 아예없는 색상. 쉐이더와 알비도를 더한게 디퓨즈라고 보면 될듯.
+
+## MAin Utility AOVs
 
